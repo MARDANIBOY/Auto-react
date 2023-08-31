@@ -1,10 +1,14 @@
 # facebook bot  Logi withn cookies
 
-# git clone https://github.com/MARDANIBOY/Auto-react.git
 
-$cd Auto-react
 
-# python Reactbot.py
+> rm -rf Auto-react
+> 
+>  git clone https://github.com/MARDANIBOY/Auto-react.git
+
+>. cd Auto-react
+
+>  python Reactbot.py
  
 
 pkg update && pkg upgrade -y -y
