@@ -1,6 +1,11 @@
-# Auto-react
+# facebook bot  Logi withn cookies
 
- facebook bot  Logi withn cookies
+# git clone https://github.com/MARDANIBOY/Auto-react.git
+
+$cd Auto-react
+
+# python Reactbot.py
+ 
 
 pkg update && pkg upgrade -y -y
 pkg install root-repo -y
